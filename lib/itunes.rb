@@ -1,6 +1,7 @@
 require 'faraday_middleware'
 require 'itunes/configuration'
 require 'itunes/client'
+require 'rash'
 
 module ITunes
   extend Configuration
